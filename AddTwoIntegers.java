@@ -6,11 +6,12 @@ public class AddTwoIntegers {public static void main(String[] args) {
     int second = 20;
     int sum = first + second;
 
-    float first = 1.5f;
+    /*float first = 1.5f;
     float second = 2.0f;
 
-    float product = first * second;
-
+    float product = first * second;*/
+    int product = first * second;
+     
     
     
 
