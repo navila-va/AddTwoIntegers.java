@@ -12,7 +12,7 @@ public class AddTwoIntegers {public static void main(String[] args) {
     int product = first * second;
 
     System.out.println("The sum is: " + sum);
-    System.out.println("The product is: : + product)
+    System.out.println("The product is: " + product);
 }
 
 
